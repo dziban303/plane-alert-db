@@ -235,7 +235,6 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 06A1DA,A7-CHA,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1DB,A7-CHB,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A1DC,A7-CHC,Qatar Executive,Gulfstream Aerospace GVIII-G700,GA7C,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
-06A1E4,A7-HBJ,Qatar Amiri Flight,Boeing 747-BBJ,B748,Gov,Dictator Alert,Tamim bin Hamad Al Thani,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 06A1F0,A7-TAA,Qatar Executive,Bombardier Global 6000,GLEX,Gov,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.qatarexec.com.qa
 06A21F,ZR523,Qatar Emiri Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Emiri,Other Air Forces,https://w.wiki/4ntJ
 06A248,A7-MAA,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,Touch The Sky With Glory,Other Air Forces,https://w.wiki/4ntJ
@@ -15991,3 +15990,4 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
+AF83F3,25-3300,US Government,Boeing VC-25B Bridge,B748,Gov,Air Force One,Government,Trump l'oeil,Radiohead,https://en.wikipedia.org/wiki/Boeing_VC-25B_Bridge
