@@ -66,7 +66,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Climate Crisis|Oil Companies, Large Business Jets - BBJs and ACJs|196|
 |Coastguard|Coastguard, Customs and Border Patrols|450|
 |Da Comrade|Russian or Soviet Aircraft|92|
-|Dictator Alert|People of potentially questionable morals and values|310|
+|Dictator Alert|People of potentially questionable morals and values|309|
 |Distinctive|Unique and/or special aircraft e.g. The AN-225 Myria, NASA aircraft, Testbeds|219|
 |Dogs with Jobs|Aircraft with specific roles and/or modifications|212|
 |Don't you know who I am?|Famous People. I was going to say notable, but I'll go with Famous|81|
@@ -91,7 +91,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|921|
 |Ptolemy would be proud|Mapping and Aerial Survey aircraft.|239|
 |Quango|NATO, United Nations, World Bank etc.|33|
-|Radiohead|Very Very special aircraft. Think VC25.|5|
+|Radiohead|Very Very special aircraft. Think VC25.|6|
 |RAF|Aircraft of the Royal Air Force|248|
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
