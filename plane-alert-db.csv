@@ -3644,7 +3644,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407078,G-FION,Private,Titan Aircraft Mustang,T51,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://w.wiki/4nzM
 407083,G-POLS,Police Scotland,Eurocopter EC135,EC35,Pol,The Polis,Police Squad,Copper Chopper,Police Forces,https://www.scotland.police.uk/
 407096,G-HOWD,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
-40709D,G-LNAC,Linc and Notts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambucopter.org.uk/
+40709D,G-LNAC,Kent Surrey and Sussex Air Ambulance,Agusta-Westland AW-169,AW169,Civ,Air Ambo,Medical Evac,NOTAR,Flying Doctors,https://www.aakss.org.uk/
 4070AA,G-FFFB,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 4070BE,G-HOUR,Private,Max Holste Broussard MH 1521M,BROU,Civ,Liason,Observation,Historic,Historic,https://w.wiki/4o3c
 4070F4,G-GBAS,Flight Calibration Services,Diamond Aircraft DA62,DA62,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Dogs with Jobs,http://www.flight-cal.com
@@ -15991,3 +15991,8 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
+06A27B,A7-MAN,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
+3B77EC,146,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3F62FC,54+44,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+407FD8,G-RESB,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
+48088C,Q-43,Royal Netherlands Air Force,AH-64DN Apache,H64,Mil,Brrrrrrrrrrrrrrt,Gunship,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
