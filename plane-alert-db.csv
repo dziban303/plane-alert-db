@@ -241,6 +241,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 06A255,A7-MAC,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
 06A256,A7-MAE,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
 06A27A,A7-MAM,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
+06A27B,A7-MAN,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
 06A27C,A7-MAO,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
 06A27D,A7-MAP,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
 06A2C3,A7-HHF,Qatar Amiri Flight,Boeing 747-BBJ,B748,Gov,Dictator Alert,Tamim bin Hamad Al Thani,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
@@ -1988,6 +1989,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3B77E7,5836,French Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Tactical Airlift,Cargo,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77E8,F-RADC,French Air Force,Airbus A310-304,A310,Mil,Troop Transport,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77EB,147,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77EC,146,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77EF,125,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77F1,111,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77FB,F-RADA,French Air Force,Airbus A310-304,A310,Mil,Troop Transport,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
@@ -2653,6 +2655,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F60AA,30+20,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F61AA,54+36,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F6219,54+31,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F62FC,54+44,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F644F,31+22,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F64F6,54+21,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F652F,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
@@ -3791,6 +3794,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407DFC,G-GBNI,Government of the United Kingdom,Airbus A321neo,A21N,Gov,VIP Transport,Governments,Keir Starmer,RAF,https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government
 407F86,G-HMGG,HM Coastguard,Raytheon Aircraft Company King Air B350,B350,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 407FD7,G-RESA,HM Coastguard,Leonardo AW139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
+407FD8,G-RESB,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
 408095,G-EHAT,Essex and Herts Air Ambulance,Leonardo AW169,A169,Civ,Air Ambo,Medical Evac,NOTAR,Flying Doctors,https://www.ehaat.org
 4176E2,2,Myanmar Air Force,Fokker F70,F70,Mil,Military Coup,Free And Fair Elections,Genocide,Other Air Forces,https://w.wiki/4myZ
 41CE02,G-BSAH,Gama Aviation,BN Islander R1,BN2P,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
@@ -5182,6 +5186,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 48086C,Q-29,Royal Netherlands Air Force,AH-64DN Apache,H64,Mil,Brrrrrrrrrrrrrrt,Gunship,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
 48086D,Q-30,Royal Netherlands Air Force,AH-64DN Apache,H64,Mil,Brrrrrrrrrrrrrrt,Gunship,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
 480872,A-292,Royal Netherlands Air Force,Alouette III SA.316,ALO3,Mil,Helikopter,I Am Old,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/
+48088C,Q-43,Royal Netherlands Air Force,AH-64DN Apache,H64,Mil,Brrrrrrrrrrrrrrt,Gunship,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
 48089B,Q-58,Royal Netherlands Air Force,Boeing AH-64E Apache Guardian,H64,Mil,Brrrrrrrrrrrrrrt,Gunship,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
 480C01,NAF40,Royal Netherlands Air Force,Douglas DC-10 KDC-10,DC10,Mil,Air2Air,Tanker,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht
 480C03,G-273,Royal Netherlands Air Force,Lockheed C-130H-30 Hercules,C130,Mil,Tactical Airlift,Cargo,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/
@@ -15991,8 +15996,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
-06A27B,A7-MAN,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
-3B77EC,146,French Air Force,SOCATA TBM 700A,TBM7,Mil,Flight Test,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3F62FC,54+44,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
-407FD8,G-RESB,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
-48088C,Q-43,Royal Netherlands Air Force,AH-64DN Apache,H64,Mil,Brrrrrrrrrrrrrrt,Gunship,Parvus Numero Magnus Merito,Other Air Forces,https://www.defensie.nl/organisatie/luchtmacht

@@ -1026,7 +1026,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407061,G-WADF,Private,Air Creation Tanarg 912S,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://en.wikipedia.org/wiki/Air_Creation_Tanarg
 407078,G-FION,Private,Titan Aircraft Mustang,T51,Civ,Replica,This One Is Small,This One Is Far Away,Joe Cool,https://w.wiki/4nzM
 407096,G-HOWD,Private,Magni Gyro M-24 Orion,MM24,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,http://www.magnigyro.it/en/products/m24-orion
-40709D,G-LNAC,Linc and Notts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambucopter.org.uk/
+40709D,G-LNAC,Kent Surrey and Sussex Air Ambulance,Agusta-Westland AW-169,AW169,Civ,Air Ambo,Medical Evac,NOTAR,Flying Doctors,https://www.aakss.org.uk/
 4070AA,G-FFFB,Private,P & M Aviation Quik GTR,ULAC,Civ,People Be Crazy,Ultralight,Nope Mobile,You came here in that thing?,https://www.pmaviation.co.uk/quikgtr-ouraircraftdetails.html
 4070BE,G-HOUR,Private,Max Holste Broussard MH 1521M,BROU,Civ,Liason,Observation,Historic,Historic,https://w.wiki/4o3c
 4070F4,G-GBAS,Flight Calibration Services,Diamond Aircraft DA62,DA62,Civ,Fight Calibration,Measuring Stick,Trundle Wheel,Dogs with Jobs,http://www.flight-cal.com
@@ -1155,6 +1155,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407CA7,G-BLNY,Draken Intl,Britten-Norman Islander R.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
 407CB6,G-CMCT,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
 407CBF,G-LNCC,Linc and Notts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambucopter.org.uk/
+407FD8,G-RESB,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
 408095,G-EHAT,Essex and Herts Air Ambulance,Leonardo AW169,A169,Civ,Air Ambo,Medical Evac,NOTAR,Flying Doctors,https://www.ehaat.org
 41CE02,G-BSAH,Gama Aviation,BN Islander R1,BN2P,Civ,Surveillance,Eye In The Sky,Covert,Oxcart,https://www.gamaaviation.com/special-mission-2
 424059,VP-BNZ,Gazpromavia,Boeing 737NG-BBJ,B737,Civ,Man Made Climate Change,Boeing Business Jet,Climate Crisis,Climate Crisis,https://xkcd.com/1732/
