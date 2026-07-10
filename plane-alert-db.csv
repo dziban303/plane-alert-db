@@ -4557,6 +4557,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 43C972,PR010,Royal Air Force,General Atomics Protector RG1,Q9,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper
 43C973,PR011,Royal Air Force,General Atomics Protector RG1,Q9,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper
 43C977,PR015,Royal Air Force,General Atomics Protector RG1,Q9,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper
+43C97A,WT001,Royal Air Force,Boeing 737-700 AEW&C,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
+43C97B,WT002,Royal Air Force,Boeing 737-700 AEW&C,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
 43CAE3,ZK343,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43CAE8,ZK334,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
 43CAED,ZK371,Royal Air Force,Eurofighter Typhoon FGR4,EUFI,Mil,I Feel The Need....,Fighter,Per Ardua Ad Astra,Zoomies,https://w.wiki/3jhM
@@ -5879,6 +5881,10 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4B822B,TCSG-552,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 4B822C,TCSG-553,Turkish Coast Guard,CASA CN-235 100MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.sg.gov.tr/
 4B822D,09-001,Turkish Air Force,Gulfstream G550,GLF5,Civ,Bizjet,Not A Car,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
+4B8295,13-001,Turkish Air Force,Boeing E-7T Peace Eagle,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
+4B8296,13-002,Turkish Air Force,Boeing E-7T Peace Eagle,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
+4B8297,13-003,Turkish Air Force,Boeing E-7 Wedgetail,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
+4B8298,13-004,Turkish Air Force,Boeing E-7T Peace Eagle,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
 4B82A1,EM-808,Turkish National Police,B350 Super King Air,B350,Pol,Police Squad,The Cops,Surveillance,Police Forces,https://en.wikipedia.org/wiki/Law_enforcement_in_Turkey
 4B82A3,EM-7092,Turkish Police,Bell 429 GlobalRanger,B429,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://tinyurl.com/ube7rsp6
 4B82A4,EM-7093,Turkish Police,Bell 429 GlobalRanger,B429,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://tinyurl.com/ube7rsp6
@@ -6440,6 +6446,10 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 71F9C3,45-747,Republic of Korea Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,The Highest Power Defending Korea,Other Air Forces,https://w.wiki/5Fe6
 71F9C4,45-750,Republic of Korea Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,The Highest Power Defending Korea,Other Air Forces,https://w.wiki/5Fe6
 71FA07,2050,Republic of Korea Air Force,IPTN CN-235 220VIP,CN35,Mil,VIP Transport,Must Be Nice,The Highest Power Defending Korea,Other Air Forces,https://w.wiki/5Fe6
+71FC01,64-700,Republic of Korea Air Force,Boeing E-737 Peace Eye,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
+71FC02,65-327,Republic of Korea Air Force,Boeing E-737 Peace Eye,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
+71FC03,65-328,Republic of Korea Air Force,Boeing E-737 Peace Eye,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
+71FC04,65-329,Republic of Korea Air Force,Boeing E-737 Peace Eye,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
 727761,P-561,Air Koryo,Tupolev Tu-154B-2,T154,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 72779A,P-883,Air Koryo,Ilyushin IL-62M,IL62,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
 7277A8,P-632,Air Koryo,Tupolev Tu-204-300,T204,Gov,Dictator Alert,Kim Jong-un,President4Life,Dictator Alert,https://youtu.be/Rsz-_fgWspo
@@ -16183,13 +16193,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
-43C97A,WT001,Royal Air Force,Boeing 737-700 AEW&C,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
-43C97B,WT002,Royal Air Force,Boeing 737-700 AEW&C,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
-4B8295,13-001,Turkish Air Force,Boeing E-7T Peace Eagle,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
-4B8296,13-002,Turkish Air Force,Boeing E-7T Peace Eagle,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
-4B8297,13-003,Turkish Air Force,Boeing E-7 Wedgetail,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
-4B8298,13-004,Turkish Air Force,Boeing E-7T Peace Eagle,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
-71FC01,64-700,Republic of Korea Air Force,Boeing E-737 Peace Eye,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
-71FC02,65-327,Republic of Korea Air Force,Boeing E-737 Peace Eye,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
-71FC03,65-328,Republic of Korea Air Force,Boeing E-737 Peace Eye,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
-71FC04,65-329,Republic of Korea Air Force,Boeing E-737 Peace Eye,E737,Mil,Wedgetail,AEW,Battle Management,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
