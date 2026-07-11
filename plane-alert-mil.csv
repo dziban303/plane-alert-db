@@ -800,6 +800,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 1B4F60,RF-85856,Russian Navy,Tupolev Tu-154 M,T154,Mil,Military Transport,Workhorse,Careless,Other Navies,https://w.wiki/4nsE
 1D3348,RF-78664,Russian Air Force,Ilyushin IL-76MD-90A,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Czj9
 1F632C,90924,Russian Air Force,Ilyushin IL-20 M,IL18,Mil,COMINT,ELINT,Oxcart,Other Air Forces,https://w.wiki/Dst7
+1F6FA9,RF-94121,Russian Navy,Tupolev Tu-142,TU95,Mil,Cold Warrior,Bear,Da Comrade,Other Air Forces,https://en.wikipedia.org/wiki/Tupolev_Tu-142
 31FED7,MM81600,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 31FEF5,MM81592,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33F10E,MM81597,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
@@ -3229,6 +3230,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4D03CA,LX-N90452,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03CB,LX-N90453,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03CC,LX-N90454,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
+4D03CD,LX-N90455,NATO,Boeing E-3A Sentry,E3TF,Mil,Battle Management,AEW,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Boeing_E-3_Sentry
 4D03CE,LX-N90456,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03CF,LX-N90458,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
 4D03D0,LX-N90459,NATO,Boeing E-3A Sentry,E3TF,Mil,NATO,AWACS,Open Skies,Oxcart,https://www.nato.int
@@ -8589,10 +8591,13 @@ AE6BD0,85-0069,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bo
 AE6BD1,85-0060,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
 AE6BD2,????,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
 AE6BD3,85-0064,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Eliminator,Bone,USAF,https://w.wiki/3kLm
+AE6BD4,85-0068,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer
 AE6BD6,85-0072,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Polarized,Bone,USAF,https://w.wiki/3kLm
 AE6BD7,85-0073,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
 AE6BD8,85-0075,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
+AE6BDA,85-0079,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer
 AE6BDC,85-0081,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
+AE6BDE,85-0084,USAF,Rockwell B-1 Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer
 AE6BDF,????,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
 AE6BE1,????,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
 AE6BE5,????,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm

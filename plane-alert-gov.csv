@@ -413,6 +413,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 46F488,HC-36,Greek Coast Guard,Eurocopter AS365 N3 Dauphin,AS65,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.hcg.gr/en/
 46F801,AC-4,Greek Coast Guard,SOCATA TB20 Trinidad,TB20,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.hcg.gr/en/
 46F803,AC-3,Greek Coast Guard,SOCATA TB20 Trinidad,TB20,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.hcg.gr/en/
+483123,SN-50YG,Polish Border Guard,Piper PA-34 Seneca,PA34,Gov,Border Patrol,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
 484122,P4-VIP,Equatorial Guinea,Gulfstream G500,GLF5,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 484362,P4-KAZ,Mint Juleps Investments,Boeing 737-BBJ,B737,Gov,Dictator Alert,Ilham Aliyev,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 48448C,P4-SKN,Equatorial Guinea,Boeing 777-LR,B77L,Gov,Dictator Alert,Teodoro Obiang Nguema Mbasogo,President4Life,Dictator Alert,https://en.wikipedia.org/wiki/Equatorial_Guinea
@@ -427,6 +428,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 485920,PH-GOV,Government of The Netherlands,Boeing 737-BBJ,B737,Gov,The Netherlands,Je Maintiendrai,Government,Governments,https://www.government.nl
 48AD06,SP-LIG,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
 48AD07,SP-LIH,Polish Air Force,Embraer E175LR,E75S,Gov,Przyjemny,Andrzej Duda,Government,Head of State,https://w.wiki/4nEk
+48B0DE,SN-61YG,Polish Border Guard,LET L-410 UVP-E20 Turbolet,L410,Gov,Border Patrol,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
+48B15E,SN-62YG,Polish Border Guard,LET L-410 UVP-E20 Turbolet,L410,Gov,Border Patrol,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
+48C0DE,SN-45YG,Polish Border Guard,PZL-104M Wilga 2000,PZ4M,Gov,Border Patrol,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
+48C15E,SN-42YG,Polish Border Guard,PZL-104M Wilga 2000,PZ4M,Gov,Border Patrol,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
+48C4DE,SN-48YG,Polish Border Guard,Safran S-15 Patroller UAV,S15U,Gov,UAV,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
+48C65E,SN-47YG,Polish Border Guard,Stemme S-15,S15S,Gov,Border Patrol,Straz Graniczna,Surveillance,Coastguard,https://www.strazgraniczna.pl
 48D8E1,1502,Polish Air Force,Lockheed C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D8E2,1503,Polish Air Force,Lockheed C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
 48D8E4,1505,Polish Air Force,Lockheed C-130E Hercules,C130,Gov,Chonky Boy,Tactical Airlift,Flying Troops,Other Air Forces,https://w.wiki/4nEo
