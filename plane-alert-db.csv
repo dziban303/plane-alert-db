@@ -7326,6 +7326,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 894071,A9C-HRH,Royal Bahraini Air Force,Sikorsky S-76 C,S76,Mil,Chopper,Utility,RBAF,Other Air Forces,https://w.wiki/4n6V
 89407F,A9C-BAH,Bahrain Amiri Flight,Gulfstream G650,GLF6,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 894081,A9C-ISA,Bahrain Defence Force,Boeing 737NG,B738,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+894082,A9C-HAK,Bahrain Amiri Flight,Boeing 747,B744,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 894088,702,Royal Bahraini Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Cargo,RBAF,Other Air Forces,https://w.wiki/4n6V
 8940B2,A9C-HIA,Bahrain Amiri Flight,AgustaWestland AW.139,A139,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://tinyurl.com/3m82af6x
 8953C7,V8-MHB,Gov of Brunei,Boeing 767,B762,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Brunei
@@ -7372,6 +7373,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 896571,A6-PFG,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896572,A6-PFH,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896591,A6-RAS,DC Aviation Al-Futtaim,Bombardier Challenger 604,CL60,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.dc-aviation.ae
+8967D3,DU-142,Dubai Air Wing,AgustaWestland AW.139,A139,Gov,Dictator Alert,Rashid Al Maktoum,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8967D7,DU-325,Dubai Police,Bell 212 AH1,B212,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://www.dubaipolice.gov.ae
 8967DB,DU-201,Dubai Police,AgustaWestland AW.139,A139,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://www.dubaipolice.gov.ae
 8967DC,DU-202,Dubai Police,AgustaWestland AW.139,A139,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://www.dubaipolice.gov.ae
@@ -16194,5 +16196,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
-894082,A9C-HAK,Bahrain Amiri Flight,Boeing 747,B744,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-8967D3,DU-142,Dubai Air Wing,AgustaWestland AW.139,A139,Gov,Dictator Alert,Rashid Al Maktoum,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
