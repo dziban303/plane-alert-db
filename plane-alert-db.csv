@@ -2557,6 +2557,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3EA18B,30+32,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EA1CC,54+04,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3EA2D7,44+33,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
+3EA427,63+01,German Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 3EA437,46+32,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3EA567,46+36,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3EA653,54+05,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
@@ -2693,6 +2694,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F7D5E,46+51,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F7DC1,15+01,German Air Force,Airbus ACJ319-133X,A319,Mil,Not a Bus,Airbus Corporate Jet,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F7DE4,30+95,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F7EFD,63+03,German Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 3F8013,????,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F8019,54+28,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F8032,79+14,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
@@ -2888,6 +2890,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F9C21,????,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F9C84,57+04,German Navy,Dornier Do 228-212,D228,Mil,Polution Control,Marineflieger,What Is That Smell,Dogs with Jobs,https://cdn.jetphotos.com/full/6/70510_1613061242.jpg
 3F9D48,31+04,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F9DA8,63+02,German Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 3F9DAC,79+11,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F9E5B,79+23,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3F9E66,89+65,German Navy,Westland Sea King Mk41,S61,Mil,SAR,Marine Patrol,Marineflieger,Other Navies,https://en.wikipedia.org/wiki/German_Navy
@@ -5020,6 +5023,11 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 478117,5699,Royal Norwegian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Luftforsvaret,Other Air Forces,https://w.wiki/4ns$
 478120,041,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,https://tinyurl.com/yc2vh8ux
 478121,053,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,https://tinyurl.com/yc2vh8ux
+47819D,9582,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+47819E,9583,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+47819F,9584,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+4781A0,9585,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+4781A1,9586,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 47838C,LN-ODL,Norsk Luftambulanse,AgustaWestland AW.139,A139,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://norskluftambulanse.no/
 47839C,LN-OOB,Norsk Luftambulanse,MBB-Kawasaki BK 117 D-2,BK17,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://norskluftambulanse.no/
 4783B2,LN-ODM,Norsk Luftambulanse,AgustaWestland AW.139,A139,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://norskluftambulanse.no/
@@ -6465,7 +6473,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 71DF04,B704,Korea Coast Guard,IPTN CN-235 110MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,http://www.kcg.go.kr/english/main.do
 71DF05,B705,Korea Coast Guard,IPTN CN-235 110MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,http://www.kcg.go.kr/english/main.do
 71DF06,B706,Korea Coast Guard,IPTN CN-235 110MPA,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,http://www.kcg.go.kr/english/main.do
+71F00D,230921,Republic of Korea Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+71F00E,230922,Republic of Korea Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+71F00F,230923,Republic of Korea Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 71F010,230925,Republic of Korea Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Anti-Submarine Warfare,Other Navies,https://www.navy.mil.kr/mbshome/mbs/eng/index.do
+71F011,230926,Republic of Korea Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+71F012,230927,Republic of Korea Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 71F881,19-002,Republic of Korea Air Force,Airbus KC-330 Cygnus,A332,Mil,Refuel,Air2Air,The Highest Power Defending Korea,Other Air Forces,https://w.wiki/5Fe6
 71F9C3,45-747,Republic of Korea Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,The Highest Power Defending Korea,Other Air Forces,https://w.wiki/5Fe6
 71F9C4,45-750,Republic of Korea Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Tactical Airlift,Chonky Boy,The Highest Power Defending Korea,Other Air Forces,https://w.wiki/5Fe6
@@ -7077,6 +7090,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7CFA93,A62-001,Royal Australian Air Force,Boeing 737-8 BBJ,B38M,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
 7CFA94,A62-002,Royal Australian Air Force,Boeing 737-8 BBJ,B38M,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
 7CFA96,A62-003,Royal Australian Air Force,Boeing 737-8 BBJ,B38M,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
+7CFA97,A47-013,Royal Australian Air Force,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 800019,352,Peruvian Air Force,Boeing 737,B732,Mil,VIP Transport,Must Be Nice,Fuerza Aerea del Peru,Other Air Forces,https://w.wiki/4n2J
 80004F,VT-UPA,Government Of Uttar Pradesh,Beech B300 Super King Air,BE30,Gov,Uttar Pradesh,Anandiben Patel,Government,Governments,http://up.gov.in
 80007A,VT-EUX,Government of Tamil Nadu State,Cessna Citation V,C560,Gov,Tamil Nadu,M. K. Stalin,Government,Governments,https://www.tn.gov.in
@@ -7142,6 +7156,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 800E3D,VP905,Indian Air Force Vintage Flight,Douglas C-47A Dakota,DC3,Mil,Historic,Dakota,Srinagar,Historic,https://tinyurl.com/ys43nfbw
 800E89,IN328,Indian Navy,Boeing P-8I Poseidon,P8,Mil,Anti Submarine Warfare,Magnetic Anomaly Detector,Sham No Varunaḥ,Other Navies,https://w.wiki/3kq4
 800E8A,IN329,Indian Navy,Boeing P-8I Poseidon,P8,Mil,Anti Submarine Warfare,Magnetic Anomaly Detector,Sham No Varunaḥ,Other Navies,https://w.wiki/3kq4
+800E8B,IN330,Indian Navy,Boeing P-8I Neptune,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+800E8C,IN331,Indian Navy,Boeing P-8I Neptune,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 80138E,VT-GOG,Government of Gujarat,Bombardier Challenger 650,CL60,Gov,Gujarat,Acharya Devvrat,Government,Governments,https://gujaratindia.gov.in
 80169F,VT-AKV,Reliance Commercial Dealers Ltd,Boeing 737MAX 9 BBJ,B39M,Civ,Mukesh Ambani,India's Richest,Billionaire,Don't you know who I am?,https://en.wikipedia.org/wiki/Mukesh_Ambani
 801801,L-915,Lebanese Air Force,IAR 330M,PUMA,Mil,Chopper,Military Transport,Here I Am Lebanon's Sky,Other Air Forces,https://w.wiki/4nEW
@@ -8807,6 +8823,7 @@ A5C0EA,N47YC,Private,DHC-1 Chipmunk,DHC1,Civ,Air Experience Flight,Jump Johnny J
 A5C16B,N470DF,Cal Fire,North American Rockwell OV-10D Bronco,V10,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
 A5C292,N470RA,Rocky Mountian Holdings LLC,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com/
 A5C2AD,35,Pakistan Army,B350 Super King Air,B350,Mil,Light Transport,Utility,Fixed Wing,Toy Soldiers,https://w.wiki/4myg
+A5C52D,N471DS,Boeing,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 A5C5FE,N471NA,Neptune Aviation Services,BAe 146 200,B462,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://neptuneaviation.com
 A5CA47,N472TX,PHI Health,Bell 407,B407,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.phiairmedical.com/
 A5CD6C,N473NA,Neptune Aviation Services,BAe 146-200 A,B462,Civ,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://neptuneaviation.com
@@ -13671,7 +13688,10 @@ AE220F,07-8608,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly
 AE2210,07-8609,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
 AE2211,84-0048,USAF,DHC E-9A,DH8A,Mil,Eye In The Sky,ISR,Covert,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104559/e-9a/
 AE222C,167951,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE222D,167952,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE222E,167953,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE222F,167954,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE2230,167955,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE2237,2301,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2238,2302,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
 AE2239,2302,United States Coast Guard,CASA HC-144A Ocean Sentry,CN35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.uscg.mil/
@@ -14269,12 +14289,19 @@ AE4EA5,166187,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels
 AE4EAB,166194,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
 AE4EB1,167956,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE4EB2,168428,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EB3,168429,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE4EB4,168430,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE4EB5,168431,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE4EB6,168432,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE4EB7,168433,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE4EB8,168434,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE4EB9,168435,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EBA,168436,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE4EBB,168437,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE4EBC,168438,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE4EBD,168439,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE4EBE,168440,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE4EBF,168754,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE4EC0,168755,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE4EC1,168756,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE4EC2,168757,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
@@ -14544,13 +14571,34 @@ AE578D,14-20669,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE578E,14-20670,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE578F,14-20671,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5792,14-20674,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE57B4,168848,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57B5,168849,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57B6,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE57B7,168851,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57B8,168852,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE57B9,168853,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57BA,168854,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57BB,168855,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57BC,168856,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57BD,168857,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57BE,168858,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57BF,168859,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE57C0,168860,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57C1,168996,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57C2,168997,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57C3,168998,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57C4,168999,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57C5,169000,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57C6,169001,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE57C7,169002,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57C8,169003,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57C9,169004,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE57CA,169005,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE57CB,169006,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57CC,169007,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE57CD,169008,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE57CE,169009,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE57CF,169010,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE57D0,169011,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE57D1,2007,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
 AE57D2,2008,United States Coast Guard,Lockheed HC-130J Hercules,C30J,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/Diw$
@@ -14804,13 +14852,29 @@ AE5C0D,15-02174,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphol
 AE5C0E,15-02175,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE5C0F,15-02176,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE5C54,15-5810,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
+AE5C56,169324,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5C57,169325,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5C58,169326,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5C5A,169328,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5C5B,169329,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5C5C,169330,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5C5D,169331,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5C5E,169332,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5C5F,169333,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5C60,169334,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5C61,169335,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5C62,169336,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5C63,169337,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5C64,169338,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5C65,169339,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5C66,169340,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5C67,169341,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5C68,169342,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5C69,169343,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5C6A,169344,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5C6B,169345,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5C6C,169346,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5C6D,169347,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5C6E,169348,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5C71,168457,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
 AE5C72,168458,United States Navy,MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://w.wiki/6XYA
@@ -14915,6 +14979,7 @@ AE5E10,17-46035,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight A
 AE5E11,17-46036,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5E12,17-46037,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5E13,17-46038,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
+AE5E17,169349,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5E18,169426,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5E48,??????,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
 AE5E49,169067,United States Navy,Grumman E-2 Hawkeye,E2,Mil,Hawkeye,AEW,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Northrop_Grumman_E-2_Hawkeye
@@ -15000,13 +15065,38 @@ AE5F13,17-5867,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly
 AE5F14,17-5869,USAF,Lockheed AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
 AE5F15,17-5870,USAF,Lockheed HC-130J Hercules,C30J,Mil,Combat King II,Search And Rescue,Air2Air,USAF,https://w.wiki/Diw$
 AE5F1A,16-00397,United States Army,Bombardier RO-6A,DH8C,Mil,Surveillance,All Weather,COMINT,Oxcart,https://tinyurl.com/ujytz53e
+AE5F37,169542,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F38,169543,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F39,169544,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F3A,169545,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F3B,169546,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5F3C,169547,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE5F3D,169548,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5F3E,169549,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F3F,169550,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F40,169551,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5F41,169552,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5F42,169553,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F43,169554,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5F44,169555,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5F45,169556,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F46,169557,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5F47,169558,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5F48,169559,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5F49,169560,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5F4A,169561,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F4B,169562,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F4C,169563,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F4D,169564,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F4E,169565,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F4F,169566,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5F50,169567,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE5F51,169568,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F52,169569,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F53,169570,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F54,169571,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F55,169572,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE5F56,169324,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE5F92,18-46039,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5F93,18-46040,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5F94,18-46041,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
@@ -15369,6 +15459,7 @@ AE64C5,168693,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,No
 AE660C,17-01001,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE66D3,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE66D7,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6783,169346,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE6785,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6788,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6790,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
@@ -15414,12 +15505,14 @@ AE6804,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vas
 AE6805,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6807,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6808,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6809,169010,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE680D,6030,United States Coast Guard,Sikorsky MH-60T Jayhawk,H60,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/8wc3
 AE6810,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6812,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6813,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6819,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE681F,Tactical,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6820,169004,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE6822,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6823,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6829,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
@@ -15505,10 +15598,13 @@ AE6A24,20-21114,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE6A26,20-21126,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6A27,20-21117,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6A3A,170013,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6A3B,170014,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+AE6A3C,170015,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE6A3D,170016,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6A3E,170017,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6A3F,170018,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE6A40,170268,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE6A41,170269,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE6A55,19-03268,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE6A6D,RCH324,USAF,Douglas KC-10A Extender,DC10,Mil,Air2Air,Refuel,To Fly Fight And Win,USAF,https://w.wiki/ULx
 AE6A76,20-21136,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -15745,10 +15841,12 @@ AE748D,21-03416,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cav
 AE748F,21-03418,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE7498,22-02282,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE7499,22-02283,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
+AE749B,170476,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE749C,170477,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE749D,170478,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE749E,170479,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE749F,170480,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
+AE74A0,170481,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE74BB,22-21239,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE74C2,21-03423,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AE74D0,21-03437,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
@@ -16225,6 +16323,9 @@ C87F12,NZ3306,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Choppe
 C87F13,NZ3307,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
 C87F14,NZ3308,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
 C87F15,NZ3309,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
+C87F3A,NZ4801,Royal New Zealand Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+C87F3B,NZ4802,Royal New Zealand Air Force,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
+C87F3C,NZ4803,Royal New Zealand Air Force,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 C87F3D,NZ4804,Royal New Zealand Air Force,Boeing P-8A Poseidon,P8,Mil,New Zealand,Jacinda Ardern,Government,Governments,https://www.newzealand.com
 E01111,LQ-OEI,Government Province of La Pampa,Turbo Commander,AC90,Gov,Argentina,Alberto Fernandez,Government,Governments,https://en.wikipedia.org/wiki/La_Pampa_Province
 E02090,LV-BBP,Province of Salta Police,Bell 407,B407,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://en.wikipedia.org/wiki/Salta_Province
@@ -16316,104 +16417,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
-3EA427,63+01,German Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-3F7EFD,63+03,German Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-3F9DA8,63+02,German Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-47819D,9582,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-47819E,9583,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-47819F,9584,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-4781A0,9585,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-4781A1,9586,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-71F00D,230921,Republic of Korea Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-71F00E,230922,Republic of Korea Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-71F00F,230923,Republic of Korea Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-71F011,230926,Republic of Korea Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-71F012,230927,Republic of Korea Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-7CFA97,A47-013,Royal Australian Air Force,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-800E8B,IN330,Indian Navy,Boeing P-8I Neptune,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-800E8C,IN331,Indian Navy,Boeing P-8I Neptune,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-A5C52D,N471DS,Boeing,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE222D,167952,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE222F,167954,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE2230,167955,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE4EB3,168429,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE4EB4,168430,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE4EB5,168431,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE4EBA,168436,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE4EBD,168439,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE4EBE,168440,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE4EBF,168754,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57B4,168848,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57B5,168849,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57B6,168850,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57B8,168852,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57BA,168854,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57BB,168855,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57BC,168856,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57BD,168857,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57BE,168858,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57BF,168859,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57C1,168996,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57C2,168997,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57C3,168998,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57C4,168999,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57C5,169000,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57C6,169001,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57C8,169003,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57C9,169004,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57CC,169007,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57CD,169008,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE57CF,169010,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C56,169324,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C57,169325,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C5B,169329,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C5D,169331,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C5E,169332,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C61,169335,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C63,169337,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C64,169338,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C65,169339,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C66,169340,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C67,169341,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C69,169343,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C6A,169344,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C6B,169345,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C6C,169346,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5C6D,169347,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5E17,169349,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F37,169542,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F38,169543,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F39,169544,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F3A,169545,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F3B,169546,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F3E,169549,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F3F,169550,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F40,169551,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F42,169553,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F43,169554,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F45,169556,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F46,169557,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F48,169559,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F4A,169561,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F4B,169562,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F4C,169563,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F4D,169564,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F4E,169565,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F4F,169566,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F51,169568,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F52,169569,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F53,169570,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F54,169571,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F55,169572,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE5F56,169324,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE6783,169346,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE6809,169010,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE6820,169004,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE6A3B,170014,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE6A3C,170015,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE6A41,170269,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE749B,170476,United States Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-AE74A0,170481,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-C87F3A,NZ4801,Royal New Zealand Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-C87F3B,NZ4802,Royal New Zealand Air Force,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
-C87F3C,NZ4803,Royal New Zealand Air Force,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
