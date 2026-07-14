@@ -888,6 +888,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3532CC,T.23-12,Spanish Air Force,Airbus A-400M,A400,Mil,Tactical Airlift,Military Transport,Cargo,Other Air Forces,https://en.wikipedia.org/wiki/Airbus_A400M_Atlas
 3532CD,T.23-13,Spanish Air Force,Airbus A-400M,A400,Mil,Tactical Airlift,Military Transport,Cargo,Other Air Forces,https://en.wikipedia.org/wiki/Airbus_A400M_Atlas
 3532CE,TK.23-14,Spanish Air Force,Airbus A-400M,A400,Mil,Tactical Airlift,Military Transport,Cargo,Other Air Forces,https://en.wikipedia.org/wiki/Airbus_A400M_Atlas
+35350C,P.3M-9,Spanish Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+35350D,P.3M-12,Spanish Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+35350F,P.3M-08,Spanish Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 353542,D.4-08,Spanish Air Force,CASA CN-235 100MPA,CN35,Mil,Maritime Patrol,Search And Rescue,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
 3542C3,T.18-3,Spanish Air Force,Dassault Falcon 900,F900,Mil,VIP Transport,Bizjet,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
 3542C4,T.18-4,Spanish Air Force,Dassault Falcon 900,F900,Mil,VIP Transport,Bizjet,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4nrY
@@ -1470,6 +1473,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F458F,46+48,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F4674,45+85,German Air Force,Panavia Tornado IDS,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F46DB,54+27,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
+3F476B,60+04,German Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 3F47F3,31+43,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F4833,????,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F4857,30+68,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
@@ -1516,9 +1520,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3F5F35,44+75,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
 3F5FBB,46+25,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
 3F5FEE,46+32,German Air Force,Panavia Tornado ECR,TOR,Mil,Danger Zone,Electronic Combat Reconnaissance,Luftwaffe,Oxcart,http://torinak.com/qaop#!tll
+3F6001,60+01,German Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 3F6003,60+03,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
 3F6004,60+04,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
+3F6005,60+05,German Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 3F6006,60+06,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
+3F6007,60+07,German Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 3F6008,60+08,German Navy,Lockheed P-3C CUP Orion,P3,Mil,Maritime Patrol,Anti Submarine Warfare,Deutsche Marine,Other Navies,https://w.wiki/4meM
 3F60AA,30+20,German Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Luftwaffe,GAF,https://w.wiki/Dfbp
 3F61AA,54+36,German Air Force,Airbus Military A400M Atlas C1,A400,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
@@ -2794,6 +2801,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 478114,5607,Royal Norwegian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Luftforsvaret,Other Air Forces,https://w.wiki/4ns$
 478115,5601,Royal Norwegian Air Force,Lockheed C-130J Hercules,C30J,Mil,Cargo,Tactical Airlift,Luftforsvaret,Other Air Forces,https://w.wiki/4ns$
 478117,5699,Royal Norwegian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Luftforsvaret,Other Air Forces,https://w.wiki/4ns$
+47811A,4576,Royal Norwegian Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 478120,041,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,https://tinyurl.com/yc2vh8ux
 478121,053,Royal Norwegian Air Force,Dassault Falcon 20 ECM,FA20,Mil,Wild Weasel,Eye In The Sky,Electronic Countermeasures,Oxcart,https://tinyurl.com/yc2vh8ux
 47819D,9582,Royal Norwegian Air Force,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
@@ -3102,7 +3110,16 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 497C27,15107,Portuguese Air Force,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Zoomies,Other Air Forces,https://www.emfa.pt/
 497C2B,15112,Portuguese Air Force,F-16AM Fighting Falcon,F16,Mil,Jet Fighter,Chappy,Zoomies,Other Air Forces,https://www.emfa.pt/
 497C73,17403,Portuguese Air Force,Dassault Falcon 50,FA50,Mil,Bizjet,Tri-jet,Of His Own Free Will,Other Air Forces,https://www.emfa.pt
+497C95,14805,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+497C98,14808,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+497C99,14809,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+497C9B,14811,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+497C9D,24813,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+497C9E,24814,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+497C9F,24815,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 497CC0,19205,Portuguese Navy,Westland Lynx Mk95 Super,LYNX,Mil,Maritime Patrol,ASW,Wiling To Do Well,Other Navies,https://w.wiki/53bf
+497CE3,24816,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+497CE4,24817,Portuguese Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 498421,3085,Czech Air Force,Airbus ACJ319-115X,A319,Mil,Airbus Corporate Jet,Must be Nice,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
 498422,2801,Czech Air Force,Airbus ACJ319-115X,A319,Mil,Airbus Corporate Jet,Must be Nice,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
 498426,5105,Czech Air Force,Bombardier Challenger 601,CL60,Mil,Bizjet,Must be Nice,The Air Is Our Sea,Other Air Forces,https://w.wiki/4mdR
@@ -3345,6 +3362,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 71038C,HZ-109,Royal Saudi Air Force,British Aerospace 125 800B,H25B,Mil,VIP Transport,Bizjet,Must Be Nice,Other Air Forces,https://w.wiki/4nsx
 7103E8,HZ-MS4B,Saudi Armed Forces Medical Services,Gulfstream G450,GLF4,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
 7103F5,HZ-MS5B,Saudi Armed Forces Medical Services,Gulfstream G500,GLF5,Mil,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/4mci
+71F008,950908,Republic of Korea Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 71F00D,230921,Republic of Korea Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 71F00E,230922,Republic of Korea Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 71F00F,230923,Republic of Korea Navy,Boeing P-8 Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
@@ -3594,6 +3612,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7CF8F3,A30-004,Royal Australian Air Force,Boeing E-7A Wedgetail,E737,Mil,Battle Management,AEW,She'll Be Right,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
 7CF8F4,A30-005,Royal Australian Air Force,Boeing E-7A Wedgetail,E737,Mil,Battle Management,AEW,She'll Be Right,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
 7CF8F5,A30-006,Royal Australian Air Force,Boeing E-7A Wedgetail,E737,Mil,Battle Management,AEW,She'll Be Right,Oxcart,https://en.wikipedia.org/wiki/Boeing_737_AEW%26C
+7CF91A,A9-657,Royal Australian Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+7CF91D,A9-660,Royal Australian Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 7CF922,A41-210,Royal Australian Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF925,A41-211,Royal Australian Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF98D,A34-001,Royal Australian Air Force,Alenia C-27J Spartan,C27J,Mil,Cargo,The Front Fell Off,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
@@ -3775,6 +3795,11 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 896C3C,1302,United Arab Emirates Air Force,Airbus A330-243-MRTT,A332,Mil,Air2Air,Refuel,UAEAF,Other Air Forces,https://en.wikipedia.org/wiki/United_Arab_Emirates_Air_Force
 896C3E,1229,United Arab Emirates Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAE,Other Air Forces,https://w.wiki/4n4k
 896C40,1230,United Arab Emirates Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,UAEAF,Other Air Forces,https://en.wikipedia.org/wiki/United_Arab_Emirates_Air_Force
+899001,3301,Republic of China Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+899002,3302,Republic of China Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+899005,3306,Republic of China Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+899007,3308,Republic of China Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+899008,3309,Republic of China Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 899009,3310,Republic Of China Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Navies,https://w.wiki/4nt9
 89900C,3315,Taiwan Air Force,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Air Forces,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 899180,5001,Republic Of China Air Force,Fokker F50,F50,Mil,VIP Transport,Military Transport,ROCAF,Other Air Forces,https://w.wiki/4nt8
@@ -5662,6 +5687,7 @@ AE0EE5,87-24649,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The
 AE0EF9,83-23908,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE0EFA,84-23980,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE0EFC,85-24431,United States Army,Sikorsky UH-60A Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
+AE0F04,160290,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE0F92,170111,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://w.wiki/8o8J
 AE10B3,01-0065,USAF,Gulfstream C-37A,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://w.wiki/DiyY
 AE10B5,01-0186,USAF,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://w.wiki/3k8v
@@ -6341,6 +6367,7 @@ AE17BE,98-0134,USAF,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https:
 AE17BF,98-0135,USAF,F-15E Eagle,F15,Mil,USAF,Multi Role,Strike Eagle,USAF,https://w.wiki/3qBi
 AE17CD,19-5602,USAF,Gulfstream EA-37B,GLF5,Mil,Electronic Countermeasures,Wild Weasel,Compass Call,Oxcart,https://w.wiki/97PJa
 AE17CE,20-2344,USAF,Gulfstream EA-37B,GLF5,Mil,Electronic Countermeasures,Wild Weasel,Compass Call,Oxcart,https://w.wiki/97PJ
+AE17E8,161413,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE17ED,166509,United States Navy,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE1817,167806,United States Marine Corps,Bell Textron UH-1Y Venom,UH1Y,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE1818,167807,United States Marine Corps,Bell Textron UH-1Y Venom,UH1Y,Mil,Chopper,Gunship,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
@@ -6614,23 +6641,58 @@ AE1CCB,86-0163,USAF,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https
 AE1CCC,86-0164,USAF,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
 AE1CCD,86-0165,USAF,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
 AE1CCE,86-0166,USAF,F-15C Eagle,F15,Mil,USAF,Fighter Jet,Never Beaten,USAF,https://www.airforce.com
+AE1CF9,158215,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1CFA,158222,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1CFB,158224,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1CFE,158564,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D00,158570,United States Navy,Lockheed P-3C-UIII Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D03,158912,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D13,158934,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D19,159326,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D1C,159504,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D2A,160293,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D2B,160610,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D3E,161012,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D41,161121,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D46,161128,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D47,161132,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D51,161339,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
 AE1D52,161404,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D53,161405,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D56,161408,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D58,161411,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D5A,161414,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
 AE1D5B,161415,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D5D,161586,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D5E,161587,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D5F,161588,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D60,161589,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D61,161590,United States Navy,Lockheed P-3C BMUP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D64,161593,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D6B,161766,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D6C,161767,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D71,162770,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D75,162773,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D78,162776,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D79,162777,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D7A,162778,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D7B,162998,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D7C,162999,United States Navy,Lockheed P-3C AIP Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
 AE1D80,163003,United States Navy,Lockheed P-3C Orion,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,United States Navy,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D81,163004,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D85,163291,United States Navy,Lockheed P-3C-AIP+ Orion,P3,Mil,One Ping Only Vasily,Maritime Patrol,ASW,United States Navy,https://w.wiki/3qBW
+AE1D88,163294,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D89,163295,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+AE1D8A,156511,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D8C,156517,United States Navy,Lockheed EP-3E Orion,P3,Mil,Eye In The Sky,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
 AE1D8E,156528,United States Navy,Lockheed EP-3E Orion,P3,Mil,Eye In The Sky,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
+AE1D8F,156529,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D90,157316,United States Navy,Lockheed EP-3E Orion,P3,Mil,Eye In The Sky,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
+AE1D91,157318,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D92,157325,United States Navy,Lockheed EP-3E Orion,P3,Mil,Eye In The Sky,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
 AE1D94,159887,United States Navy,Lockheed EP-3E Orion,P3,Mil,Covert,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
 AE1D95,159893,United States Navy,Lockheed EP-3E Orion,P3,Mil,Eye In The Sky,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
+AE1D97,160764,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE1D98,161410,United States Navy,Lockheed EP-3E Orion,P3,Mil,Covert,Special Ops,SIGINT,Special Forces,https://www.p3orion.nl/sneaky.html
 AE1DBA,167830,United States Navy,Sikorsky MH-60S Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
 AE1DF0,163849,United States Navy,Grumman E-2C Hawkeye,E2,Mil,Hawkeye,AEW,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Northrop_Grumman_E-2_Hawkeye
@@ -7444,6 +7506,7 @@ AE4D69,10-0216,USAF,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globem
 AE4D6A,10-0217,USAF,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://w.wiki/3k8v
 AE4D98,????,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
 AE4D99,168276,United States Navy,Grumman E-2 Hawkeye,E2,Mil,Hawkeye,AEW,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Northrop_Grumman_E-2_Hawkeye
+AE4D9A,158574,United States Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 AE4D9B,08-00262,United States Army,DHC UV-18C Twin Otter,DHC6,Mil,Perfectly Serviceable Aircraft,Skydive,Golden Knights,Aerobatic Teams,https://w.wiki/4nFV
 AE4DDD,11-0550,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://w.wiki/8o8J
 AE4DDE,CBP-213,US Customs and Border Protection,General Atomics MQ-9A Reaper,Q9,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper
@@ -9112,12 +9175,19 @@ C2AF95,130340,Royal Canadian Air Force,Lockheed KCC-130H Hercules,C130,Mil,Tacti
 C2AF9F,130341,Royal Canadian Air Force,Lockheed KCC-130H Hercules,C130,Mil,Tactical Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2AFC7,177702,Royal Canadian Air Force,CC-177 Globemaster III,C17,Mil,Tactical Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2B05D,156105,Royal Canadian Air Force,Raytheon CT-156 Harvard II,TEX2,Mil,Puppers,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
+C2B1A7,140101,Royal Canadian Air Force,Lockheed Cp-140 Aurora,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 C2B1BB,140103,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
 C2B1C5,140104,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
+C2B1CF,140105,Royal Canadian Air Force,Lockheed Cp-140 Aurora,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+C2B1D9,140106,Royal Canadian Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+C2B1ED,140108,Royal Canadian Air Force,Lockheed Cp-140 Aurora,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+C2B201,140110,Royal Canadian Air Force,Lockheed Cp-140 Aurora,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 C2B20B,140111,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
+C2B215,140112,Royal Canadian Air Force,Lockheed Cp-140 Aurora,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 C2B21F,140113,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
 C2B229,140114,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
 C2B233,140115,Royal Canadian Air Force,Lockheed CP-140M Aurora,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Air Forces,https://w.wiki/BxdK
+C2B23D,140116,Royal Canadian Air Force,Lockheed Cp-140 Aurora,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 C2B247,140117,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
 C2B251,140118,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
 C2B35F,15002,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air Refuel,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
@@ -9157,6 +9227,12 @@ C2C363,330002,Royal Canadian Air Force,Airbus CC-330 Husky,A332,Mil,Strategic Ai
 C2C36D,330003,Royal Canadian Air Force,Airbus CC-330 Husky,A332,Mil,Strategic Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2C377,330004,Royal Canadian Air Force,Airbus A330-200,A332,Mil,Tactical Airlift,Cargo,VIP Transport,Other Air Forces,https://w.wiki/9Jrr
 C815A3,ZK-EAJ,Myanmar Air Force,Beechcraft 1900D,B190,Mil,Military Coup,Free And Fair Elections,Genocide,Other Air Forces,https://w.wiki/4myZ
+C87F07,NZ4201,Royal New Zealand Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+C87F08,NZ4202,Royal New Zealand Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+C87F09,NZ4203,Royal New Zealand Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+C87F0A,NZ4204,Royal New Zealand Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+C87F0B,NZ4205,Royal New Zealand Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+C87F0C,NZ4206,Royal New Zealand Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 C87F0D,NZ3301,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
 C87F0E,NZ3302,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
 C87F0F,NZ3303,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
@@ -9178,6 +9254,10 @@ E200AE,T-99,Argentine Air Force,Boeing 737NG,B737,Mil,VIP Transport,Government,F
 E400B3,4111,Mexican Air Force,Embraer ERJ-145MP,E145,Mil,Surveillance,Eye In The Sky,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 E400B4,4101,Mexican Air Force,Embraer ERJ-145SA,E145,Mil,Eye In The Sky,Airborne Early Warning,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 E40489,5719,Brazilian Air Force,Embraer EMB.314 Super Tucano A-29,E314,Mil,Display Team,Aerobatics,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
+E483AA,FAB7202,Brazilian Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+E483AB,FAB7203,Brazilian Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+E483AD,7205,Brazilian Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+E483AF,7207,Brazilian Air Force,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 E483BA,2590,Brazilian Air Force,Embraer EMB-190 VC-2,E190,Mil,VIP Transport,Brazil,Lula da Silva,Governments,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E483D1,N-4003,Brazilian Naval Aviation,Westland Lynx,LYNX,Mil,Light Utility,Anti-Surface Warfare,MdB,Other Navies,https://w.wiki/AEDb
 E48B40,TT-3105,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
@@ -9191,6 +9271,7 @@ E49377,EB-2006,Brazilian Army,Helibras HM-1 Panther,AS65,Mil,Chopper,Attack,Obse
 E494A3,FAB2855,Brazilian Air Force,Embraer KC-390,KC39,Mil,Cargo,Tactical Airlift,Millenium,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E80642,921,Chilean Air Force,Boeing 737-58N,B735,Mil,Chile,Gabriel Boric,Government,Governments,https://en.wikipedia.org/wiki/Politics_of_Chile
 E8065E,E-304,Chilean Army,Cessna Citation Sovereign,C680,Mil,Chile,Ejército de Chile,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Army
+E8068F,FAC404,Chilean Navy,Lockheed P-3 Orion,P3,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
 E84035,FAE-051,Ecuadorean Air Force,Embraer Legacy 600,E35L,Mil,Ecuador,Guillermo Lasso,Government,Governments,https://en.wikipedia.org/wiki/Ecuador
 E84834,FAE052,Ecuadorian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,Must Be Nice,Fuerza Aerea Ecuatoriana,Other Air Forces,https://en.wikipedia.org/wiki/Ecuadorian_Air_Force
 E849C4,AN-235,Ecuadorian Navy,B350 Super King Air,B350,Mil,Light Transport,Utility,Armada del Ecuador,Other Navies,https://w.wiki/4mei
