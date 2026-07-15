@@ -53,9 +53,45 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 08AF3F,AF001,Zambian Air Force,Gulfstream G650 ER,GLF6,Mil,VIP Transport,Bizjet,Defend And Support,Other Air Forces,https://w.wiki/4n6h
 0A400D,7T-WHN,Algerian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
 0A400E,7T-WHO,Algerian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A4010,7T-WHS,Algerian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A4011,7T-WHY,Algerian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A4012,7T-WHZ,Algerian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
 0A4014,7T-WHP,Algerian Air Force,Lockheed C-130H-30 Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A4015,7T-WHR,Algerian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A4017,7T-WHJ,Algerian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A4018,7T-WHI,Algerian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A4019,7T-WHF,Algerian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A401A,7T-WHE,Algerian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
 0A401B,7T-WHD,Algerian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A401C,7T-WHL,Algerian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A401E,7T-WHB,Algerian Air Force,Lockheed C-130H Hercules,C130,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A401F,7T-WIA,Algerian Air Force,Ilyushin Il-76TD,IL76,Mil,Cargo,Strategic Airlift,Candid,Other Air Forces,https://w.wiki/Dstq
+0A4020,7T-WIB,Algerian Air Force,Ilyushin Il-76TD,IL76,Mil,Cargo,Strategic Airlift,Candid,Other Air Forces,https://w.wiki/Dstq
+0A4021,7T-WIC,Algerian Air Force,Ilyushin Il-76TD,IL76,Mil,Cargo,Strategic Airlift,Candid,Other Air Forces,https://w.wiki/Dstq
+0A4023,7T-WIE,Algerian Air Force,Ilyushin Il-76TD,IL76,Mil,Cargo,Strategic Airlift,Candid,Other Air Forces,https://w.wiki/Dstq
 0A4024,7T-WIG,Algerian Air Force,Ilyushin IL-76TD,IL76,Mil,Cargo,Chonky Boy,Tail Gunner,Other Air Forces,https://w.wiki/Dstq
+0A4025,7T-WIP,Algerian Air Force,Ilyushin Il-76TD,IL76,Mil,Cargo,Strategic Airlift,Candid,Other Air Forces,https://w.wiki/Dstq
+0A4028,7T-WIM,Algerian Air Force,Ilyushin Il-76TD,IL76,Mil,Cargo,Strategic Airlift,Candid,Other Air Forces,https://w.wiki/Dstq
+0A402A,7T-WIT,Algerian Air Force,Ilyushin Il-76TD,IL76,Mil,Cargo,Strategic Airlift,Candid,Other Air Forces,https://w.wiki/Dstq
+0A4039,7T-WRJ,Algerian Air Force,Beechcraft King Air 350,B350,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A403A,7T-WRL,Algerian Air Force,Beechcraft King Air 350,B350,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A403B,7T-WRM,Algerian Air Force,Beechcraft King Air 350,B350,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A403C,7T-WRN,Algerian Air Force,Beechcraft King Air 350,B350,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A403D,7T-WRP,Algerian Air Force,Beechcraft King Air 350,B350,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A403E,7T-WRQ,Algerian Air Force,Beechcraft King Air 350,B350,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A4044,7T-WVB,Algerian Air Force,AgustaWestland AW101 Merlin,EH10,Mil,Helicopter,Rotorhead,Merlin,Other Air Forces,https://w.wiki/Dstq
+0A4045,7T-WVD,Algerian Air Force,AgustaWestland AW101 Merlin,EH10,Mil,Helicopter,Rotorhead,Merlin,Other Air Forces,https://w.wiki/Dstq
+0A404F,7T-WRG,Algerian Air Force,Beechcraft Super King Air 200,BE20,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A4053,7T-WRA,Algerian Air Force,Beechcraft 1900D,B190,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A4054,7T-WRB,Algerian Air Force,Beechcraft 1900D,B190,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A4055,7T-WRC,Algerian Air Force,Beechcraft 1900D,B190,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A4056,7T-WRD,Algerian Air Force,Beechcraft 1900D,B190,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A4057,7T-WRE,Algerian Air Force,Beechcraft 1900D,B190,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A4058,7T-WRF,Algerian Air Force,Beechcraft 1900D,B190,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
+0A405E,7T-WJA,Algerian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A405F,7T-WJB,Algerian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A4060,7T-WJC,Algerian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
+0A4061,7T-WJD,Algerian Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
 0AC104,EJC-1125,Colombian Army,B350 Super King Air,B350,Mil,Electronic Countermeasures,SIGNIT,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
 0AC10B,EJC-1126,Colombian Army,B350 Super King Air,B350,Mil,Electronic Countermeasures,SIGNIT,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
 0AC191,EJC-1138,Colombian Army,Cessna 208B-EX Caravan,C208,Mil,Utility,Military Transport,Homeland Honor Loyalty,Toy Soldiers,https://w.wiki/4meG
@@ -3961,6 +3997,7 @@ AABBA5,N7909N,USAF,Cessna T-41 Mescalero,C172,Mil,Training Wheels,L-Plate,To Fly
 AADD4B,FAH-015,Honduran Air Force,B200 Super King Air,BE20,Mil,Surveillance,Eye In The Sky,Fuerza Aerea Hondurena,Other Air Forces,https://w.wiki/4nE6
 AAE32E,N800PM,TCN Transport V LLC,Gulfstream G500,GLF5,Mil,Special Ops,Covert,Hostage Rescue,Special Forces,https://tinyurl.com/2p967kav
 AAE4EF,90-00178,United States Army,CASA C-212 Aviocar,C212,Mil,STOL,Medium Cargo,Jump Johnny Jump,Toy Soldiers,https://w.wiki/CstG
+AAECF3,7T-WBH,Algerian Air Force,Beechcraft King Air 90,BE9L,Mil,Surveillance,Liaison,Eye In The Sky,Other Air Forces,https://w.wiki/Dstq
 AAF4E7,805,Pakistan Army,B350 Super King Air,B350,Mil,ISR,Eye In The Sky,Surveillance,Toy Soldiers,https://w.wiki/4myg
 AAF9BF,20-1006,USAF,Boeing MH-139A Grey Wolf,A139,Mil,Get To The Choppa,ICBM Silo Security Patrol,To Fly Fight And Win,USAF,https://w.wiki/Dst$
 AB13A2,7T-WBD,Algerian Air Force,Hawker Beechcraft Corp King Air C90GTX,BE9L,Mil,Cargo,Light Transport,Matsharfeen,Other Air Forces,https://w.wiki/Dstq
