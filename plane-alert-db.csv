@@ -2005,6 +2005,15 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3B7771,F-RBAB,French Air Force,Airbus Military A400M Atlas C1,A400,Mil,Tactical Airlift,Cargo,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7772,F-RBAA,French Air Force,Airbus Military A400M Atlas C1,A400,Mil,Tactical Airlift,Cargo,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7773,574,French Air Force,Boeing C-135RG,K35R,Mil,Air2Air,Refuel,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B7774,525,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
+3B7775,497,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
+3B7776,740,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
+3B7777,739,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
+3B7778,738,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
+3B7779,737,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
+3B777A,736,French Air and Space Force,Boeing KC-135R Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
+3B777F,471,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
+3B7780,470,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
 3B7781,F-RAJB,French Air Force,Airbus A340-212,A342,Mil,Troop Transport,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7782,F-RAJA,French Air Force,Airbus A340-212,A342,Mil,Troop Transport,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77C3,141,French Air Force,CASA CN-235 200M,CN35,Mil,Tactical Airlift,Cargo,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
@@ -5982,6 +5991,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 4B7FDF,T-334,Swiss Air Force,AS532 Cougar U2,AS32,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://w.wiki/Diws
 4B7FE0,T-333,Swiss Air Force,Eurocopter AS532 Cougar,AS32,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://w.wiki/Diws
 4B7FE1,T-332,Swiss Air Force,Eurocopter AS532 Cougar,AS32,Mil,Neutral,Must Be Nice,Aviatica Militara Svizra,Other Air Forces,https://w.wiki/Diws
+4B8201,58-0110,Turkish Air Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
+4B8202,62-3567,Turkish Air Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
 4B8203,62-3563,Turkish Air Force,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
 4B8204,57-2609,Turkish Air Force,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
 4B8205,62-3539,Turkish Air Force,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,Turk Hava Kuvvetleri,Other Air Forces,https://www.hvkk.tsk.tr
@@ -11892,6 +11903,7 @@ AE0591,58-0075,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Wi
 AE0592,58-0103,USAF,Boeing KC-135T,K35R,Mil,Air2Air,I Am Old,SR71,USAF,https://w.wiki/8e5t
 AE0593,58-0113,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
 AE0594,58-0128,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
+AE0595,58-0130,USAF,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
 AE0596,59-1460,USAF,Boeing KC-135T,K35R,Mil,Air2Air,I Am Old,SR71,USAF,https://w.wiki/8e5t
 AE0597,59-1502,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
 AE0598,59-1521,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
@@ -11971,6 +11983,7 @@ AE0631,84-00175,United States Army,Beech C-12U-3 Huron,BE20,Mil,Light Transport,
 AE0632,84-00179,United States Army,Beech C-12U-3 Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 AE0635,73-3300,USAF,Lockheed LC-130H Hercules,C130,Mil,Skibird,RATO,To Fly Fight And Win,USAF,https://w.wiki/DixA
 AE063F,57-1441,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
+AE0649,57-1494,USAF,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
 AE064D,58-0015,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
 AE064E,58-0036,USAF,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,To Fly Fight And Win,USAF,https://w.wiki/8e5t
 AE0650,58-0049,USAF,Boeing KC-135T,K35R,Mil,Air2Air,I Am Old,SR71,USAF,https://w.wiki/8e5t
@@ -12043,6 +12056,7 @@ AE06E5,163845,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Mar
 AE06E6,163837,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://w.wiki/8o8J
 AE06E7,163838,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://w.wiki/8o8J
 AE06E9,163844,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://w.wiki/8o8J
+AE073C,62-3564,USAF,Boeing KC-135 Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
 AE074E,163840,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://w.wiki/8o8J
 AE0750,163839,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://w.wiki/8o8J
 AE0751,163842,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://w.wiki/8o8J
@@ -16058,6 +16072,7 @@ AE7814,????,United States Navy,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,U
 AE7815,169804,United States Navy,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE7816,169805,United States Navy,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
 AE7817,169806,United States Navy,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk
+AE8372,60-0367,USAF,Boeing KC-135 Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
 AE8915,TACTICAL,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://w.wiki/8oc6
 AEA0F9,22-03477,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AECAA3,170752,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
@@ -16091,6 +16106,7 @@ AF8437,170754,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo
 AF8439,170755,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://w.wiki/8o8J
 AF8482,A57-003,Australian Air Force,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,G'day,UAV,https://w.wiki/6XYA
 AF848C,18-20986,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AF8504,60-0345,USAF,Boeing KC-135 Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
 AF9E24,170745,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AFA162,22-1012,USAF,Boeing MH-139A Grey Wolf,A139,Mil,Get To The Choppa,ICBM Silo Security Patrol,To Fly Fight And Win,USAF,https://w.wiki/Dst$
 AFA827,18-20990,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -16606,19 +16622,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
-3B7774,525,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-3B7775,497,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-3B7776,740,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-3B7777,739,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-3B7778,738,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-3B7779,737,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-3B777A,736,French Air and Space Force,Boeing KC-135R Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-3B777F,471,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-3B7780,470,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-4B8201,58-0110,Turkish Air Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-4B8202,62-3567,Turkish Air Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-AE0595,58-0130,USAF,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-AE0649,57-1494,USAF,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-AE073C,62-3564,USAF,Boeing KC-135 Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-AE8372,60-0367,USAF,Boeing KC-135 Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
-AF8504,60-0345,USAF,Boeing KC-135 Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
