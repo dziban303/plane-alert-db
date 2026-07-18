@@ -3799,6 +3799,20 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 800E8C,IN331,Indian Navy,Boeing P-8I Neptune,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 801801,L-915,Lebanese Air Force,IAR 330M,PUMA,Mil,Chopper,Military Transport,Here I Am Lebanon's Sky,Other Air Forces,https://w.wiki/4nEW
 87C31D,9906,Japan Maritime Self-Defense Force,ShinMaywa US-2,US2,Mil,Amphibian,Flying Boat,Coolest Plane In The World,Radiohead,https://en.wikipedia.org/wiki/ShinMaywa_US-2
+87C40C,91701,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C40D,91702,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C40E,91703,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C40F,91704,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C410,91705,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C411,91706,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C412,91707,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C413,91708,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C414,91709,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C415,91710,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C416,91711,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C41A,91715,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C41B,91716,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+87C41C,91717,Japan Ground Self-Defense Force,Bell-Boeing V-22 Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 87C83D,9906,Japan Maritime Self-Defense Force,ShinMaywa US-2,US2,Mil,Amphibian,Flying Boat,Coolest Plane In The World,Radiohead,https://en.wikipedia.org/wiki/ShinMaywa_US-2
 87CC01,75-3252,Japan Air Self-Defense Force,Gulfstream U-4,GLF4,Mil,Flight Inspection,Must Be Nice,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
 87CC08,87-3602,Japan Air Self-Defense Force,Boeing KC-767J,B762,Mil,Air2Air,Refuel,Ready Anytime,Other Air Forces,https://w.wiki/4wRh
@@ -7241,6 +7255,8 @@ AE26CF,90-0796,USAF,F-16 Fighting Falcon,F16,Mil,Chappy,You Just Lost A Refinery
 AE26D2,88-0444,USAF,F-16C Fighting Falcon,F16,Mil,Chappy,You Just Lost A Refinery,To Fly Fight And Win,USAF,https://w.wiki/3iQf
 AE26D4,90-0709,USAF,F-16 Fighting Falcon,F16,Mil,You Just Lost A Refinery,Fighter,To Fly Fight And Win,USAF,https://w.wiki/3iQf
 AE26F5,09-1944,USAF,F-16 Fighting Falcon,F16,Mil,Chappy,You Just Lost A Refinery,To Fly Fight And Win,USAF,https://w.wiki/3iQf
+AE26F6,05-0028,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE26F7,05-0029,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE272C,96-6042,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
 AE272D,96-6043,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,USAF,https://w.wiki/CTPo
 AE27A6,84-0047,USAF,DHC E-9A,DH8A,Mil,Eye In The Sky,ISR,Covert,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104559/e-9a/
@@ -7292,6 +7308,7 @@ AE29DD,08-3173,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly
 AE29FC,168205,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://w.wiki/8o8J
 AE29FD,166694,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
 AE29FE,166695,United States Navy,Boeing C-40A Clipper,B737,Mil,Navy,Not a Bus,Clipper,United States Navy,https://w.wiki/7wDu
+AE2BC5,166723,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE2BE2,167863,United States Navy,Sikorsky MH-60S Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
 AE2BF7,166580,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
 AE2BFE,166587,United States Navy,Sikorsky MH-60R Seahawk,H60,Mil,ASW,Multi Role,Sub Hunter,United States Navy,https://w.wiki/8o8Y
@@ -7370,6 +7387,9 @@ AE2FD6,168076,United States Navy,Grumman E-2C Hawkeye,E2,Mil,Eye In The Sky,AWAC
 AE2FD7,168077,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Hawkeye,AEW,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Northrop_Grumman_E-2_Hawkeye
 AE3341,22-1013,USAF,Boeing MH-139A Grey Wolf,A139,Mil,Get To The Choppa,ICBM Silo Security Patrol,To Fly Fight And Win,USAF,https://w.wiki/Dst$
 AE43DD,170746,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
+AE4409,11-0057,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE440B,11-0059,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE440C,11-0060,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE45C6,24-21286,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE4788,07-20036,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE478A,07-20038,United States Army,Sikorsky HH-60M Blackhawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -7403,6 +7423,7 @@ AE4884,09-20213,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE4885,09-20214,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE4889,09-20218,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE488D,09-20222,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE498A,08-0036,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE498B,08-0037,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE498C,08-0038,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE498D,08-0039,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
@@ -7434,6 +7455,8 @@ AE4A7B,168206,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,S
 AE4A7C,168208,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE4A7D,168209,United States Marine Corps,UC-12W Huron,BE20,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://w.wiki/8o8J
 AE4A7E,06-0033,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4A7F,07-0034,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4A80,08-0035,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4A81,09-0525,USAF,Gulfstream C-37B,GLF5,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://w.wiki/8o8J
 AE4AF0,08-3175,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
 AE4AF1,08-3176,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
@@ -7557,13 +7580,24 @@ AE4BEA,74-22428,USAF,Bell TH-1H Iroquois,UH1,Mil,Huey,Get To The Choppa,To Fly F
 AE4BEB,72-21483,USAF,Bell TH-1H Iroquois,UH1,Mil,Huey,Get To The Choppa,To Fly Fight And Win,USAF,https://youtu.be/M4nFSdNNFQw
 AE4BEC,74-22463,USAF,Bell TH-1H Iroquois,UH1,Mil,Huey,Get To The Choppa,To Fly Fight And Win,USAF,https://youtu.be/M4nFSdNNFQw
 AE4BFC,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4BFF,168008,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4C00,167917,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4C01,168015,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4C02,167921,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4C03,167922,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4C04,165944,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4C09,168012,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4C0D,168015,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4C10,168021,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4C19,168029,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4C1F,10-00729,United States Army,Beech MC-12S Liberty,B350,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE4C5E,10-00728,United States Army,Beech MC-12W Liberty,B350,Mil,Surveillance,Covert,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE4C5F,10-0729,USAF,Hawker Beechcraft Corp MC-12W Liberty,B350,Mil,Bizjet,Must Be Nice,VIP Transport,USAF,https://www.airforce.com
 AE4C60,10-00730,United States Army,Beech MC-12S Liberty,B350,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE4C61,10-00739,United States Army,Hawker Beechcraft Corp MC-12S-2 Liberty,B350,Mil,Bizjet,Must Be Nice,VIP Transport,Toy Soldiers,https://www.army.mil
 AE4C62,10-00742,United States Army,Beech MC-12S Liberty,B350,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
+AE4CEA,09-0043,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4CEB,09-0044,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4CF8,10-27024,United States Army,Alenia C-27J,C27J,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 AE4CFB,10-27027,United States Army,Alenia C-27J,C27J,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 AE4CFC,10-27028,United States Army,Alenia C-27J,C27J,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
@@ -7611,10 +7645,42 @@ AE4E3D,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope
 AE4E3E,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE4E3F,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE4E49,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4E4D,168214,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E4E,168215,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E4F,168216,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E50,168218,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E51,168218,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E52,168219,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E53,168243,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E54,168221,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4E55,168222,United States Marine Corps,MV-22B Osprey,V22,Mil,Fighting Griffins,Tiltrotor,Nope Mobile,United States Marine Corps,https://w.wiki/3ksn
+AE4E56,168223,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E57,168224,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E58,168225,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E59,168226,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E5A,168227,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E5B,168228,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4E5C,168229,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4E5D,168230,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E5E,168231,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E5F,168232,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E60,168233,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E61,168234,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E62,168235,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E63,168236,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E64,168237,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E65,168238,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E66,168239,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4E67,168240,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4E69,168242,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E6A,168243,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E6B,168244,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E6C,168278,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E6D,168279,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4E6E,168280,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+AE4E70,168282,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E71,168283,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4E72,168284,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4E8D,166164,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
 AE4E8E,166165,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
 AE4E97,166173,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
@@ -7675,10 +7741,15 @@ AE4EE5,11-0122,USAF,Cirrus SR20 T-53A,SR20,Mil,Training Wheels,L-Plate,To Fly Fi
 AE4EE6,11-0123,USAF,Cirrus SR20 T-53A,SR20,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4EE7,11-0124,USAF,Cirrus SR20 T-53A,SR20,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
 AE4EE8,11-0125,USAF,Cirrus SR20 T-53A,SR20,Mil,Training Wheels,L-Plate,To Fly Fight And Win,USAF,https://www.airforce.com
+AE4EE9,09-0041,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4EEA,09-0042,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE4EEB,08-0047,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
 AE4EEC,10-0053,USAF,Bell CV-22B Osprey,V22,Mil,Helipad Smasher,Rotorwash,Tiltrotor,Special Forces,https://ukdefencejournal.org.uk/us-air-force-destroy-british-hospital-helipad/
+AE4EED,10-0054,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4EEE,10-0055,USAF,Bell/Boeing CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE4EEF,10-0056,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4EF3,166491,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE4EF4,166494,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE4F12,10-0218,USAF,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://w.wiki/3k8v
 AE4F13,10-0219,USAF,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://w.wiki/3k8v
 AE4F14,10-0220,USAF,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,To Fly Fight And Win,USAF,https://w.wiki/3k8v
@@ -7713,6 +7784,7 @@ AE50EB,10-20320,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE511B,10-20305,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE511E,10-20308,United States Army,Sikorsky HH-60M Black Hawk,H60,Mil,Get To The Choppa,Medevac,Blackhawk,Toy Soldiers,https://w.wiki/3nxX
 AE515E,88-00325,United States Army,Beech RC-12X Huron,BE20,Mil,Guardrail,SIGINT,Aerials Galore,Oxcart,https://w.wiki/8p9R
+AE5171,166688,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5192,11-00195,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE5193,10-20241,United States Army,Sikorsky UH-60L Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5194,11-00167,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
@@ -7733,6 +7805,9 @@ AE51F2,11-00174,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphol
 AE51F9,166231,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
 AE5201,15-01159,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE5204,11-00192,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
+AE520D,166497,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE520F,165852,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5212,165945,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5238,07-08034,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE5239,07-08035,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE5242,07-08723,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
@@ -7769,9 +7844,16 @@ AE538A,168596,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Eye In The Sky,AWAC
 AE538B,168597,United States Navy,Northrop Grumman E-2 Hawkeye,E2,Mil,Hawkeye,AEW,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Northrop_Grumman_E-2_Hawkeye
 AE538C,168598,United States Navy,Northrop Grumman E-2 Hawkeye,E2,Mil,Hawkeye,AEW,Eye In The Sky,Oxcart,https://en.wikipedia.org/wiki/Northrop_Grumman_E-2_Hawkeye
 AE538D,168599,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
+AE53ED,168289,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE53EE,168292,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+AE53EF,168297,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE53F0,168302,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE53F1,168306,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
 AE53F5,168324,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+AE53F6,168327,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE53F7,168335,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE53F8,168335,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE53F9,168689,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE53FA,12-00280,United States Army,Beech MC-12S Liberty,B350,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE53FB,12-00279,United States Army,Beech MC-12S Liberty,B350,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE53FC,12-00278,United States Army,Beech MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
@@ -7876,15 +7958,22 @@ AE571C,12-0062,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And
 AE571D,12-0063,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE571E,12-0064,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE571F,12-0065,USAF,CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
+AE5720,12-0066,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5721,12-0067,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5722,13-0068,USAF,Bell/Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
 AE5723,13-0069,USAF,Bell CV-22B Osprey,V22,Mil,352nd Special Operations Wing,Tiltrotor,Nope Mobile,Special Forces,https://w.wiki/3ksn
+AE5724,13-0070,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5725,13-0071,USAF,Bell/Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,To Fly Fight And Win,USAF,https://w.wiki/3ksn
+AE5726,14-0072,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5727,14-0073,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5728,14-0074,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5735,169018,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harvest Hawk,Refuel,Hotel Mode,United States Marine Corps,https://w.wiki/8pAK
 AE574D,19-46007,USAF,Boeing KC-46A Pegasus,B762,Mil,Who's Thirsty?,Guzzoline,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE574F,15-46009,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5750,19-46010,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5751,15-46011,USAF,Boeing KC-46A Pegasus,B762,Mil,Air2Air,Shiny,To Fly Fight And Win,USAF,https://w.wiki/8ocC
 AE5752,12-00277,United States Army,Beech MC-12W Liberty,B350,Mil,Surveillance,Covert,ISR,Oxcart,https://tinyurl.com/2p89t5k4
+AE5764,168307,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5772,10-00256,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 AE5773,10-00257,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
 AE5774,10-00259,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
@@ -7931,7 +8020,11 @@ AE57CE,169009,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasil
 AE57CF,169010,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Eye In The Sky,Anti Submarine Warfare,Distinctive,https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon
 AE57D0,169011,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE57D7,10-00261,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
+AE57D8,168331,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE57D9,168334,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE57DD,168290,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5824,05-0419,USAF,Pilatus U-28A Draco,PC12,Mil,Covert,Special Ops,Draco,Oxcart,https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104607/u-28a
+AE5855,168294,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE585D,13-01128,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE586A,13-01141,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE586C,60-0001,USAF,B-52H Stratofortress,B52,Mil,No Fighting This Is The War Room,Strategic Bomber,BUFF,USAF,https://w.wiki/3iUw
@@ -8011,7 +8104,45 @@ AE58B7,11-00267,United States Army,Beech MC-12W Liberty,B350,Mil,Surveillance,Co
 AE58E1,166236,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
 AE58F1,166252,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
 AE58F4,166255,United States Navy,Raytheon T-6A Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
+AE5913,168322,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5914,168325,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5915,168328,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5916,168329,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5917,168331,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5918,AE5918,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5919,168337,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE591A,168338,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE591B,168340,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE591C,168341,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE591D,168342,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE591E,168343,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE591F,168344,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5920,168345,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5921,168346,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5922,168347,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5923,168348,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5924,168349,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5925,168350,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5926,168351,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5927,168352,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5928,165842,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5929,165843,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE592A,165845,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE592B,165846,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE592C,165847,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE592D,165848,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE592E,166386,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE592F,165850,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5930,166487,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5931,166490,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE5933,166499,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5934,166488,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5935,166692,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5938,168299,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5939,168300,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE593A,168301,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE593B,168303,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE593C,168305,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE595B,13-5784,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
 AE595C,14-5788,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
 AE595D,14-5791,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
@@ -8087,6 +8218,29 @@ AE5A93,18-72423,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry
 AE5A95,18-72425,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A96,18-72426,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
 AE5A98,18-72428,United States Army,Eurocopter UH-72A Lakota,EC45,Mil,Air Cavalry,Chopper,Light Utility,Toy Soldiers,https://w.wiki/8k4B
+AE5A99,168601,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5A9A,168602,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5A9B,168603,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5A9C,168604,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5A9D,168605,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5A9E,168606,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5A9F,168607,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AA0,168608,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AA1,168609,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AA2,168610,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AA3,168611,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AA4,168612,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AA5,168613,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AA6,168614,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AA7,168615,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AA8,168616,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AA9,168617,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AAA,168618,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AAB,168619,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AAC,168620,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AAD,168621,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AAE,168622,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5AAF,168623,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5ABB,15-20729,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5AC7,15-20741,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5ACA,15-20744,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
@@ -8267,7 +8421,22 @@ AE5D97,16-20909,United States Army,Sikorsky UH-60 Black Hawk,H60,Mil,Get To The 
 AE5D99,16-20911,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5D9A,16-20912,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE5D9B,16-20913,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE5DCA,168623,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DCB,168624,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DCC,168625,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DCD,168626,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DCE,168627,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DCF,168628,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DD0,168629,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DD1,168630,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DD2,168631,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DD3,168632,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DD4,168633,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DD5,168634,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DD6,168635,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5DD7,168636,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE5DD8,168637,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5DD9,168638,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5DF6,16-5833,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
 AE5DF7,16-5834,USAF,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
 AE5DF8,16-5835,USAF,Lockheed AC-130J Hercules,C30J,Mil,Ghostrider,Gunship,Run Away,Gunship,https://youtu.be/3u7_xoxJyMk
@@ -8326,9 +8495,22 @@ AE5E7A,16-01181,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphol
 AE5E7B,16-01182,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE5E7C,16-01183,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE5E7D,16-01184,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
+AE5E7E,168639,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5E7F,168640,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5E80,168641,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5E81,168642,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5E82,168643,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5E83,168644,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5E84,168645,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE5E85,168646,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5E86,168647,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE5E87,168648,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5E88,168649,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE5E89,168650,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5E8A,168651,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5E8B,168652,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5E8C,168653,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE5E8D,168654,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE5E8F,161696,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EB8,162015,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
 AE5EBE,162025,United States Navy,Bell TH-57C Sea Ranger,B06,Mil,Chopper,Training Wheels,In The Navy,United States Navy,http://tinyurl.com/th57c
@@ -8476,13 +8658,38 @@ AE60C3,17-02201,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphol
 AE60C4,17-02202,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE60C5,17-02203,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
 AE60C6,17-02204,US Army,General Atomics MQ-1C Gray Eagle,Q1,Mil,UAV,Skynet,Uphold The Public Trust,UAV,https://en.wikipedia.org/wiki/General_Atomics_MQ-1C_Gray_Eagle
+AE60C7,168655,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60C8,168656,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60C9,168657,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60CA,168658,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60CB,168659,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60CC,168660,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60CD,168661,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60CE,168662,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60CF,168663,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60D0,168664,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60D1,168665,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60D2,168666,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE60D3,168667,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE60D4,168668,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60D5,168669,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60D6,168670,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE60D7,168671,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE60D8,168672,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60D9,168673,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE60DA,168674,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE60DB,168675,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE60DC,168676,United States Marine Corps,MV-22B Osprey,V22,Mil,Fighting Griffins,Tiltrotor,Nope Mobile,United States Marine Corps,https://w.wiki/3ksn
+AE60DD,166387,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE60DE,168678,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE60DF,168679,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE60E0,168680,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60E1,168681,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60E2,168682,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60E3,168683,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE60E4,168684,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE60E5,168685,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE60E6,166686,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE60E7,168687,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE60E9,160472,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Training Wheels,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE60EC,160490,United States Marine Corps,Beech T-34C Turbo Mentor,T34T,Mil,Training Wheels,Nope Mobile,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
@@ -8502,6 +8709,7 @@ AE616D,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,
 AE6171,165569,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
 AE6173,163879,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
 AE6177,??????,United States Marine Corps,McDonnell Douglas AV-8B Harrier II,HAR,Mil,Jump Jet,Ground Attack,Spade,United States Marine Corps,https://w.wiki/6aL5
+AE61AD,14-0075,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE61B3,82-23835,USAF,DHC UV-18 Twin Otter,DHC6,Mil,Perfectly Serviceable Aircraft,Skydive,To Fly Fight And Win,USAF,https://www.airforce.com
 AE61BD,761526,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Marine Corps,https://w.wiki/6Qi9
 AE61BE,761527,United States Marine Corps,Northrop F-5N Tiger II,F5,Mil,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,United States Marine Corps,https://w.wiki/6Qi9
@@ -8769,11 +8977,26 @@ AE648F,19-21061,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE649F,19-21092,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE64A0,19-21093,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE64A1,19-21094,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
+AE64B3,168675,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE64B4,168676,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE64B5,168677,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE64B6,168678,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE64B7,168679,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE64B8,168680,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE64B9,168681,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE64BA,168682,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE64BB,168683,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE64BC,168684,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE64BD,168685,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE64BE,168686,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE64BF,168687,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE64C0,168688,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE64C1,168689,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+AE64C2,168690,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE64C3,168691,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE64C4,168692,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE64C5,168693,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE64C8,168698,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE660C,17-01001,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE66D3,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
 AE66D7,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
@@ -8932,18 +9155,71 @@ AE6A8C,20-21158,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE6A90,20-21162,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6A99,20-21171,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE6AA1,168694,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE6AA2,168695,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE6AA3,168696,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE6AA4,168697,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE6AA5,168698,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE6AA6,168699,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AA7,168700,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AA8,168701,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AA9,168702,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AAA,168703,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AAB,168704,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AAC,168705,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AAD,168706,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AAE,168707,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AAF,168708,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE6AB0,168709,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE6AB1,168710,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AB2,168711,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AB3,168712,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6AB7,168323,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE6AB9,170002,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE6ABA,170003,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE6ABE,170007,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AE6B84,16-0076,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE6B94,169435,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier On Board Delivery,Extended Range,United States Navy,https://w.wiki/3ksn
+AE6B95,169436,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE6B96,169437,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier On Board Delivery,Extended Range,United States Navy,https://w.wiki/3ksn
+AE6B97,169438,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE6B98,169439,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier On Board Delivery,Extended Range,United States Navy,https://w.wiki/3ksn
 AE6B99,169440,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier On Board Delivery,Extended Range,United States Navy,https://w.wiki/3ksn
+AE6B9A,169441,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6B9B,169442,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6B9C,169443,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6B9D,169444,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6B9E,169445,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6B9F,169446,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BA0,169447,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BA1,169448,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BA2,169449,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BA3,169450,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BA4,169451,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BA5,169452,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BA6,169453,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BA7,169454,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BA8,169455,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BA9,169456,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BAA,169457,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BAB,169458,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BAC,169459,United States Navy,Bell-Boeing CMV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BAD,169460,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BAE,169461,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BAF,169462,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BB0,169463,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE6BB1,169464,United States Navy,Bell CMV-22B Osprey,V22,Mil,Tiltrotor,Carrier On Board Delivery,Extended Range,United States Navy,https://w.wiki/3ksn
+AE6BB2,169465,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BB3,169466,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BB4,169467,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BB5,169468,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BB6,169469,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BB7,169470,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BB8,169471,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BB9,169472,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BBA,169473,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BBB,169474,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BBC,169475,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AE6BBD,169476,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AE6BC6,13-20582,United States Army,Sikorsky MH-60M Black Hawk,H60,Mil,Get To The Choppa,Special Ops,Night Stalkers,Toy Soldiers,https://w.wiki/3nxX
 AE6BD0,85-0069,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
 AE6BD1,85-0060,USAF,Rockwell B-1B Lancer,B1,Mil,Cold Warrior,Strategic Bomber,Bone,USAF,https://w.wiki/3kLm
@@ -9202,6 +9478,7 @@ AE7817,169806,United States Navy,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet
 AE8372,60-0367,USAF,Boeing KC-135 Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
 AE8915,TACTICAL,United States Navy,Boeing E-6B Mercury,E6,Mil,Quarterback,Looking Glass,TACAMO,Distinctive,https://w.wiki/8oc6
 AEA0F9,22-03477,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
+AEC91F,168344,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AECAA3,170752,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AED12A,170753,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AED3F6,22-03485,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
@@ -9211,17 +9488,32 @@ AED922,170749,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo
 AED9B7,22-03488,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AEDAAC,22-1011,USAF,Boeing MH-139A Grey Wolf,A139,Mil,Get To The Choppa,ICBM Silo Security Patrol,To Fly Fight And Win,USAF,https://w.wiki/Dst$
 AEDAE5,22-03489,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
+AEEB98,169439,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEB9A,169441,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEB9C,169443,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEB9E,169445,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEBA0,169447,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEBA1,169448,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEBA2,169449,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEBA3,169450,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEBA4,169451,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEBA5,169452,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEBA6,169453,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEBA7,169454,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
+AEEBAB,169458,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AF20C1,170748,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AF2172,170750,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AF351F,13-5067,USAF,F-35 Lightning II,F35,Mil,Foutje Bedankt,Fighter,To Fly Fight And Win,Zoomies,https://www.airforce.com
 AF384C,170744,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AF3BC9,22-1008,USAF,Boeing MH-139A Grey Wolf,A139,Mil,Get To The Choppa,ICBM Silo Security Patrol,To Fly Fight And Win,USAF,https://w.wiki/Dst$
+AF3BCF,21-0079,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AF3BDD,????,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://w.wiki/8o8J
 AF3C4E,170291,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AF3C53,A57-001,Australian Air Force,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,G'day,UAV,https://w.wiki/6XYA
 AF3C5F,18-20984,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AF3C88,22-03503,United States Army,Boeing AH-64E Apache Guardian,H64,Mil,Air Cavalry,Chopper,Attack Helos,Toy Soldiers,https://w.wiki/8k4B
 AF4A7B,168207,United States Marine Corps,UC-12W Huron,B350,Mil,USMC,Not So VIP,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
+AF4BB4,169467,US Marine Corps,Bell-Boeing MV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AF4FA8,A57-002,Australian Air Force,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,G'day,UAV,https://w.wiki/6XYA
 AF54C4,170747,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AF6172,170750,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
@@ -9230,6 +9522,7 @@ AF83F0,24-9049,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,http
 AF8420,20-1007,USAF,Boeing MH-139A Grey Wolf,A139,Mil,Get To The Choppa,ICBM Silo Security Patrol,To Fly Fight And Win,USAF,https://w.wiki/Dst$
 AF8437,170754,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AF8439,170755,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://w.wiki/8o8J
+AF8447,21-0078,USAF,Bell-Boeing CV-22B Osprey,V22,Mil,Tiltrotor,Whirlybird Plane Hybrid,Flying Troops,Distinctive,https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey
 AF8482,A57-003,Australian Air Force,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Skynet,G'day,UAV,https://w.wiki/6XYA
 AF848C,18-20986,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AF8504,60-0345,USAF,Boeing KC-135 Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,USAF,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
