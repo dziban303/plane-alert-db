@@ -239,6 +239,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 06A21F,ZR523,Qatar Emiri Air Force,Eurofighter Typhoon,EUFI,Mil,Delta Wing,Danger Zone,Emiri,Other Air Forces,https://w.wiki/4ntJ
 06A248,A7-MAA,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Tactical Airlift,Globemaster,Touch The Sky With Glory,Other Air Forces,https://w.wiki/4ntJ
 06A249,A7-MAB,Qatar Emiri Air Force,Boeing C-17 Globemaster III,C17,Mil,Tactical Airlift,Globemaster,Cargo,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_C-17_Globemaster_III
+06A24A,A7-MAH,Qatar Emiri Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Emiri,Other Air Forces,https://w.wiki/4ntJ
 06A255,A7-MAC,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
 06A256,A7-MAE,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
 06A27A,A7-MAM,Qatar Emiri Air Force,Boeing C-17A Globemaster III,C17,Mil,Wrong Turn at Albuquerque,Globemaster,Cargo,Other Air Forces,https://w.wiki/4ntJ
@@ -1407,6 +1408,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 320050,VF-149,Italian Fire Service,AgustaWestland AW.139,A139,Gov,Air Attack,Firebird,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Vigili_del_Fuoco
 33F10E,MM81597,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
 33F9DF,MM81601,Italian Navy,NH Industries SH90A,NH90,Mil,ASW,Search And Rescue,Marina Militare,Other Navies,https://w.wiki/4tNh
+33FCA3,MM62345,Italian Air Force,Gulfstream G650,GLF6,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
+33FCA4,MM62344,Italian Air Force,Gulfstream G650,GLF6,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FCD6,MM81522,Italian Army,NH Industries UH90A,NH90,Mil,Minigun,Chopper,Esercito Italiano,Toy Soldiers,https://w.wiki/4tNc
 33FCEB,MM62332,Italian Air Force,Gulfstream Aerospace G550,GLF5,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
 33FD0A,MM62329,Italian Air Force,Gulfstream 5,GLF5,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
@@ -2016,6 +2019,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3B7780,470,French Air and Space Force,Boeing KC-135R/T Stratotanker,K35R,Mil,Air2Air,Refuel,I Am Old,Other Air Forces,https://en.wikipedia.org/wiki/Boeing_KC-135_Stratotanker
 3B7781,F-RAJB,French Air Force,Airbus A340-212,A342,Mil,Troop Transport,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B7782,F-RAJA,French Air Force,Airbus A340-212,A342,Mil,Troop Transport,Ou Sont Les Bagages,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
+3B77AC,R203,French Air Force,Dassault Falcon 900,F900,Mil,Bizjet,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77C3,141,French Air Force,CASA CN-235 200M,CN35,Mil,Tactical Airlift,Cargo,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77C4,137,French Air Force,CASA CN-235 200M,CN35,Mil,Tactical Airlift,Cargo,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
 3B77C5,123,French Air Force,CASA CN-235 200M,CN35,Mil,Tactical Airlift,Cargo,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
@@ -2578,6 +2582,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 3E875E,55+04,German Air Force,Lockheed KC-130J Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E8764,55+05,German Air Force,Lockheed KC-130J Hercules,C30J,Mil,Air2Air,Tactical Airlift,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E87C9,43+29,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
+3E8819,55+06,German Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E89E7,16+02,German Air Force,Airbus A340-313X,A343,Mil,Not a Bus,Troop Transport,Luftwaffe,GAF,https://w.wiki/Dfbp
 3E8A4A,78+29,German Army,NH Industries NH90 TTH,NH90,Mil,Hubschrauber,Heer,To Protect,Toy Soldiers,https://www.bundeswehr.de/de/organisation/heer
 3E8A4F,45+57,German Air Force,Panavia Tornado,TOR,Mil,Danger Zone,Swing Wing,Luftwaffe,GAF,http://torinak.com/qaop#!tll
@@ -3873,10 +3878,12 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407CA7,G-BLNY,Draken Intl,Britten-Norman Islander R.1,BN2T,Civ,ISR,Target Practice,Surveillance,Hired Gun,https://www.draken.aero
 407CB6,G-CMCT,Private,Magni Gyro M-16 Tandem Trainer,MM16,Civ,Little Nellie,Gyrocopter,Nope Mobile,You came here in that thing?,https://youtu.be/xFozWDLne7c
 407CBF,G-LNCC,Linc and Notts Air Ambulance,AgustaWestland AW.169,A169,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.ambucopter.org.uk/
+407D81,G-DKNC,Draken Europe,Aero L-159A ALCA,L159,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
 407D8F,G-ZAHS,Government of the United Kingdom,Dassault Falcon 900LX,F900,Gov,VIP Transport,Governments,,RAF,https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government
 407D90,G-ZABH,Government of the United Kingdom,Dassault Falcon 900LX,F900,Gov,VIP Transport,Governments,,RAF,https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government
 407DCA,G-HMGC,HM Coastguard,Beech King Air 200,BE20,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 407DFC,G-GBNI,Government of the United Kingdom,Airbus A321neo,A21N,Gov,VIP Transport,Governments,Keir Starmer,RAF,https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government
+407E67,G-DKNF,Draken Europe,Aero L-159A ALCA,L159,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
 407F86,G-HMGG,HM Coastguard,Raytheon Aircraft Company King Air B350,B350,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 407FD7,G-RESA,HM Coastguard,Leonardo AW139,A139,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 407FD8,G-RESB,Bristow Helicopters,AgustaWestland AW.139,A139,Civ,Drone,Maritime Patrol,Coastguard,UAV,https://www.bristowgroup.com/
@@ -6708,6 +6715,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 763B2D,78,Pakistan Navy,ATR 72-500 MPA,AT75,Mil,Maritime Patrol,Search And Rescue,Step On The Waves,Other Navies,https://w.wiki/4n22
 766021,PA-9834,Government of Pakistan,Bombardier Global 5000,GL5T,Gov,Pakistan,VIP,Government,Governments,https://www.pakistan.gov.pk
 766035,4467,Pakistan Air Force,Lockheed C-130H Hercules,C130,Mil,Chonky Boy,Tactical Airlift,All Lie Under Our Wings,Other Air Forces,https://en.wikipedia.org/wiki/Pakistan_Air_Force
+766048,J-758,Pakistan Air Force,Bombardier BD-700,GLEX,Gov,Pakistan,VIP,Government,Governments,https://www.pakistan.gov.pk
 7684C1,751,Republic Of Singapore Air Force,Boeing KC-135R,K35R,Mil,Air2Air,I Am Old,Above All,Other Air Forces,https://w.wiki/4n2j
 76E305,720,South African Air Force,Cessna 185A Skywagon,C185,Mil,Light Transport,Utility,Through Hardships To The Stars,Other Air Forces,https://w.wiki/4n3$
 76E307,724,Republic Of Singapore Air Force,Lockheed KC-130B Hercules,C130,Mil,Air2Air,Tanker,Above All,Other Air Forces,https://w.wiki/7ok9
@@ -7495,6 +7503,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 894082,A9C-HAK,Bahrain Amiri Flight,Boeing 747,B744,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 894088,702,Royal Bahraini Air Force,Lockheed C-130J Hercules,C30J,Mil,Tactical Airlift,Cargo,RBAF,Other Air Forces,https://w.wiki/4n6V
 8940B2,A9C-HIA,Bahrain Amiri Flight,AgustaWestland AW.139,A139,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://tinyurl.com/3m82af6x
+8940C0,A9C-BHR,Bahrain Amiri Flight,Gulfstream G600,GLF6,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+8940C8,A9C-BRN,Bahrain Amiri Flight,Gulfstream G600,GLF6,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
+8940D9,A9C-ISA,Bahrain Amiri Flight,Gulfstream G700,GA7C,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8953C7,V8-MHB,Gov of Brunei,Boeing 767,B762,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Brunei
 8953D1,V8-001,Gov of Brunei,Airbus A340-212,A342,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Brunei
 8953DF,V8-BKH,Gov of Brunei,Boeing 747,B748,Gov,Government,Must Be Nice,Free And Fair Elections,Dictator Alert,https://en.wikipedia.org/wiki/Government_of_Brunei
@@ -7539,6 +7550,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 896571,A6-PFG,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896572,A6-PFH,Abu Dhabi Amiri Flight,Boeing 787-BBJ,B789,Gov,Dictator Alert,Khalifa Al Nahyan,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 896591,A6-RAS,DC Aviation Al-Futtaim,Bombardier Challenger 604,CL60,Civ,Man Made Climate Change,Private Airline,Climate Crisis,Bizjets,https://www.dc-aviation.ae
+8967D2,DU-141,Dubai Air Wing,AgustaWestland AW.139,A139,Gov,Dictator Alert,Rashid Al Maktoum,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8967D3,DU-142,Dubai Air Wing,AgustaWestland AW.139,A139,Gov,Dictator Alert,Rashid Al Maktoum,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 8967D7,DU-325,Dubai Police,Bell 212 AH1,B212,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://www.dubaipolice.gov.ae
 8967DB,DU-201,Dubai Police,AgustaWestland AW.139,A139,Pol,Police Squad,You Aint Seen Me Right,Copper Chopper,Police Forces,https://www.dubaipolice.gov.ae
@@ -16915,15 +16927,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
-06A24A,A7-MAH,Qatar Emiri Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Cargo,Tactical Airlift,Emiri,Other Air Forces,https://w.wiki/4ntJ
-33FCA3,MM62345,Italian Air Force,Gulfstream G650,GLF6,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
-33FCA4,MM62344,Italian Air Force,Gulfstream G650,GLF6,Mil,VIP,Must Be Nice,Virtute Siderum Tenus,Other Air Forces,https://w.wiki/B6Wo
-3B77AC,R203,French Air Force,Dassault Falcon 900,F900,Mil,Bizjet,Vive La France,Armee De Lair,Other Air Forces,https://www.defense.gouv.fr/english/air
-3E8819,55+06,German Air Force,Lockheed C-130J-30 Hercules,C30J,Mil,Luftbrucke,Cargo,Luftwaffe,GAF,https://w.wiki/Dfbp
-407D81,G-DKNC,Draken Europe,Aero L-159A ALCA,L159,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
-407E67,G-DKNF,Draken Europe,Aero L-159A ALCA,L159,Civ,Aggressor Squadron,Callsign Viper,Broke The Hard Deck,Hired Gun,https://w.wiki/AyWb
-8967D2,DU-141,Dubai Air Wing,AgustaWestland AW.139,A139,Gov,Dictator Alert,Rashid Al Maktoum,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
-8940D9,A9C-ISA,Bahrain Amiri Flight,Gulfstream G700,GA7C,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-8940C8,A9C-BRN,Bahrain Amiri Flight,Gulfstream G600,GLF6,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-8940C0,A9C-BHR,Bahrain Amiri Flight,Gulfstream G600,GLF6,Gov,Dictator Alert,Hamad bin Isa Al Khalifa,President4Life,Dictator Alert,https://data.dictatoralert.org/dictatorships
-766048,J-758,Pakistan Air Force,Bombardier BD-700,GLEX,Gov,Pakistan,VIP,Government,Governments,https://www.pakistan.gov.pk
